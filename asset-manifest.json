@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/club/static/css/main.57532016.css",
-    "main.js": "/club/static/js/main.fe2cf410.js",
+    "main.css": "/club/static/css/main.629fe7f6.css",
+    "main.js": "/club/static/js/main.19c362f1.js",
     "static/js/787.ab8bcad8.chunk.js": "/club/static/js/787.ab8bcad8.chunk.js",
     "static/media/book4_img.jpeg": "/club/static/media/book4_img.3ec78e2346c402362e77.jpeg",
+    "static/media/2.png": "/club/static/media/2.3a236fd6790637df0609.png",
+    "static/media/1.png": "/club/static/media/1.ee07abae5c3209911b9f.png",
+    "static/media/3.png": "/club/static/media/3.7b31591d395bd0000977.png",
     "static/media/sumnima_rai_img.jpeg": "/club/static/media/sumnima_rai_img.8b5670a94de8f8773db7.jpeg",
-    "static/media/mental_health_is_common_to_all_of_us_img.png": "/club/static/media/mental_health_is_common_to_all_of_us_img.9c6cb573cabe411471c3.png",
     "static/media/book5_img.jpeg": "/club/static/media/book5_img.e5798afa307e80d7ed0d.jpeg",
     "static/media/aditya_chitransh_img.jpeg": "/club/static/media/aditya_chitransh_img.8550023306eee008f138.jpeg",
     "static/media/jhanavi_agarwal_img.jpeg": "/club/static/media/jhanavi_agarwal_img.3bc0c04c2a0095638808.jpeg",
@@ -46,12 +48,12 @@
     "static/media/twitter.png": "/club/static/media/twitter.112d93100806a70e5d28.png",
     "static/media/linkedin.png": "/club/static/media/linkedin.f249b38224ca41a0b909.png",
     "index.html": "/club/index.html",
-    "main.57532016.css.map": "/club/static/css/main.57532016.css.map",
-    "main.fe2cf410.js.map": "/club/static/js/main.fe2cf410.js.map",
+    "main.629fe7f6.css.map": "/club/static/css/main.629fe7f6.css.map",
+    "main.19c362f1.js.map": "/club/static/js/main.19c362f1.js.map",
     "787.ab8bcad8.chunk.js.map": "/club/static/js/787.ab8bcad8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.57532016.css",
-    "static/js/main.fe2cf410.js"
+    "static/css/main.629fe7f6.css",
+    "static/js/main.19c362f1.js"
   ]
 }
