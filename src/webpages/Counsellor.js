@@ -33,7 +33,7 @@ function Counsellor(){
 
             <div style={{display:'inline-block',width:'100%'}}>
             <IndividualIntro obj={counsellor1}></IndividualIntro>
-            <IndividualIntro obj={counsellor2}></IndividualIntro>
+            <IndividualIntro obj={counsellor1}></IndividualIntro>
             </div>
 
         </div>
